@@ -49,7 +49,7 @@ ATM-Simulation/
 
 Clone the repository:
 
-git clone https://github.com/your-username/ATM-Simulation.git
+git clone https://github.com/24a31a05eu/ATM-Simulation.git
 
 
 Open the project in Visual Studio or any C++ IDE.
