@@ -47,11 +47,6 @@ ATM-Simulation/
 
 ▶️ How to Run the Project
 
-Clone the repository:
-
-git clone https://github.com/24a31a05eu/ATM-Simulation.git
-
-
 Open the project in Visual Studio or any C++ IDE.
 
 Compile and run the program.
